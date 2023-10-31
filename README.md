@@ -5,9 +5,14 @@
 *cd ..* - Serve para retornar a pasta anterior
 
 **Para Escola**
+
     cd /c
 
+/
+
 	cd temp
+
+/
 
 	cd typoscripto 
 
