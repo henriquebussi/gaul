@@ -5,6 +5,7 @@
 
 
 *git config  --global user.email "email@email.com"*
+
 *git config --global user.name "username"*
 Serve para configurar  o usuario para depois conseguir achar o repositório
 
